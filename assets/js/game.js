@@ -1,3 +1,7 @@
+window.prompt("What is your robot's name?")
+
 function fight() {
-    window.alert("the fight has begun");
+    window.alert("The fight has begun");
 }
+
+fight();
