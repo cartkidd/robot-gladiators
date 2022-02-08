@@ -1,1 +1,3 @@
-window.alert("This is an alert! JavaScript is running!");
+function fight() {
+    window.alert("the fight has begun");
+}
